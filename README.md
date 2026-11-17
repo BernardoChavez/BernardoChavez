@@ -1,94 +1,120 @@
 <div align="center">
 
-  <!-- Header Banner con efecto de olas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,17&height=220&section=header&text=Bernardo%20Chavez&fontSize=50&fontAlignY=35&desc=Ingeniero%20Inform%C3%A1tico%20%E2%80%A2%20Full%20Stack%20%26%20Creative%20Coder&descAlignY=55&descAlign=50" width="100%" />
+  <!-- HERO BANNER CYBERPUNK NEON GRADIENT -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,11,17,24&height=260&section=header&text=BERNARDO%20CHAVEZ&fontSize=56&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" />
 
-  <!-- Texto animado estilo terminal -->
+  <!-- DYNAMIC TYPING TERMINAL -->
   <a href="https://github.com/BernardoChavez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=console.log(%22Hola%2C+mundo!%20%F0%9F%91%8B%22);Full+Stack+Developer+%7C+Python%2C+Vue%2C+TS%2C+PHP;Game+Dev+%26+Shader+Enthusiast;Optimizing+algorithms+%26+building+cool+stuff...;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Crafting+scalable+full-stack+systems;%F0%9F%8E%AE+Writing+custom+shaders+%26+game+mechanics;%F0%9F%A7%AE+Solving+complex+optimization+algorithms;%F0%9F%9A%80+Exploring+AI+%26+low-level+performance;" alt="Typing SVG" />
   </a>
 
-  <!-- Redes y Contacto con badges modernas -->
+  <br/>
+
+  <!-- QUICK STATUS PILLS -->
   <p align="center">
-    <a href="mailto:bernardochavez595@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bernardochavez515%40gmail.com-00F5D4?style=flat-square&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5_Status-Building_Cool_Stuff-ff0055?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%8D_Location-Santa_Cruz%2C_BO-7928ca?style=for-the-badge&labelColor=0d1117" />
+    <a href="mailto:bernardochavez515@gmail.com">
+      <img src="https://img.shields.io/badge/%F0%9F%93%A8_Contact-Get_in_touch-00F5D4?style=for-the-badge&labelColor=0d1117&logoColor=black" />
     </a>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Performance-7928CA?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Building%20Projects-43B581?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Acerca de mí
+### ⚡ Interactive Terminal Session
 
-> *"Me gusta entender cómo funcionan las cosas por debajo: desde una operación atómica en una base de datos hasta los píxeles de un fragment shader."*
-
-- 🌐 **Desarrollo Full Stack:** Construyo aplicaciones completas y escalables integrando backends eficientes en **Python** y **PHP** con frontends reactivos en **Vue.js** y **TypeScript**.
-- 🧮 **Optimización & Algoritmos:** Interés en la investigación operativa y resolución de problemas complejos (como el modelado y solución de optimización lineal mediante el método Simplex).
-- 🎮 **Programación Gráfica & Game Dev:** Explorando la renderización 3D y la magia de los Shaders (como en mi recreación de *Doom 3D* con ShaderLab y Unity).
-- 🧠 **Machine Learning & Makerspace:** Experimentando con redes neuronales desde cero y prototipado físico con impresión 3D y CAD.
+```yaml
+user@bernardo-pc:~$ neofetch --profile
+-------------------------------------
+OS        : Arch / CachyOS Linux x86_64
+Role      : Ingeniero Informático & Full Stack Builder
+Focus     : Architecture, Optimization & Creative Tech
+```
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🚀 Tech Matrix & Weaponry
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,vue,php,cs,unity,fastapi,tailwind,mongodb,mysql,git,linux,bash&theme=dark" />
+
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>🎨 Frontend & UI</b></td>
+      <td align="center" width="25%"><b>⚙️ Backend & APIs</b></td>
+      <td align="center" width="25%"><b>🎮 Graphics & GameDev</b></td>
+      <td align="center" width="25%"><b>🛠️ Infra & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,html,css&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,php,nodejs,mongodb,mysql&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=unity,cs,blender&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&perline=3" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 🏆 GitHub Hall of Fame & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BernardoChavez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</div>
+
+---
+
+### 📈 Activity Wave & Engineering Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoChavez&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" />
 </div>
 
 <br/>
 
-<details>
-  <summary><b>🔍 Ver tecnologías desglosadas por categoría</b></summary>
-  <br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoChavez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoChavez&layout=donut&theme=tokyonight&border_radius=12" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoChavez&theme=tokyonight&border_radius=12&card_width=600" />
+</div>
+
+---
+
+### 💡 Featured Architectural Works
+
+<div align="center">
+
+| Project | Highlights | Tech Arsenal |
+| :--- | :--- | :---: |
+| **🕹️ [Doom3D Game Engine](https://github.com/BernardoChavez/Doom3D-Game)** | Recreación 3D clásica con iluminación personalizada, pipelines gráficos y shaders en tiempo real. | `Unity` `ShaderLab` `C#` |
+| **🧮 [Simplex Optimizer Engine](https://github.com/BernardoChavez/Metodo-Simplex-Backend)** | Algoritmo Dos Fases y Gran M para balanceo de dietas y optimización operativa multivariable. | `Python` `Vue 3` `TypeScript` |
+| **🚗 [SOS Automotriz Platform](https://github.com/BernardoChavez/sos_automotriz_backend)** | Arquitectura integral para asistencia vehicular, despacho geolocalizado y gestión de servicios. | `Python` `FastAPI` `Vue.js` |
+| **❄️ [Temperaturas Monitoreo](https://github.com/BernardoChavez/TemperaturasWEB)** | Telemetría e interfaz de control de temperatura para cámaras de frío industrial. | `JavaScript` `APIs` `IoT` |
+
+</div>
+
+---
+
+<!-- CYBER FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,17,24&height=100&section=footer" width="100%" />
   
-  - **Lenguajes:** Python, JavaScript (ES6+), TypeScript, PHP, C#, ShaderLab, Bash.
-  - **Frontend:** Vue.js, Tailwind CSS, HTML5, CSS3/Sass.
-  - **Backend & APIs:** FastAPI, Flask, PHP REST APIs, Node.js.
-  - **Bases de Datos:** MongoDB, MySQL, PostgreSQL.
-  - **Gráficos & Juegos:** Unity Engine, HLSL/ShaderLab, FreeCAD.
-  - **Herramientas & Entorno:** Git, GitHub, Linux (CachyOS/Arch), Wine/Lutris, VS Code.
-</details>
-
----
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BernardoChavez&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
-</div>
-
----
-
-### 📊 Estadísticas & Métricas de Código
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BernardoChavez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoChavez&layout=compact&theme=radical&border_radius=8" />
-</div>
-
-<br/>
-
-<!-- Gráfico de Olas de Actividad -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoChavez&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%" />
-</div>
-
----
-
-### 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **[Doom3D-Game](https://github.com/BernardoChavez/Doom3D-Game)** | Videojuego 3D enfocado en computación gráfica y shaders personalizados. | `Unity` `ShaderLab` `C#` |
-| **[Metodo-Simplex](https://github.com/BernardoChavez/Metodo-Simplex-Backend)** | Aplicación web para optimización lineal y formulación de raciones de mínimo costo. | `Python` `Vue` `TypeScript` |
-| **[SOS Automotriz](https://github.com/BernardoChavez/sos_automotriz_backend)** | Plataforma de gestión y asistencia automotriz full stack. | `Python` `JavaScript` `APIs` |
-| **[CUP 2025](https://github.com/BernardoChavez/cup2025-backend)** | Sistema integral desarrollado para la gestión de proyectos Cup. | `PHP` `Vue.js` `MySQL` |
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,17&height=90&section=footer" width="100%" />
+  <p align="center">
+    <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
+  </p>
 </div>
