@@ -10,7 +10,7 @@
 
   <!-- Redes y Contacto con badges modernas -->
   <p align="center">
-    <a href="mailto:bernardochavez515@gmail.com">
+    <a href="mailto:bernardochavez595@gmail.com">
       <img src="https://img.shields.io/badge/Email-bernardochavez515%40gmail.com-00F5D4?style=flat-square&logo=gmail&logoColor=black" />
     </a>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Performance-7928CA?style=flat-square" />
