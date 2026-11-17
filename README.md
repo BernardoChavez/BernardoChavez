@@ -13,7 +13,7 @@
   <br/>
 
   <!-- Social & Stats Badges -->
-  <a href="mailto:bernardochavez515@gmail.com"><img src="https://img.shields.io/badge/Email-bernardochavez515%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="mailto:bernardochavez515@gmail.com"><img src="https://img.shields.io/badge/Email-bernardochavez595%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
   <a href="https://github.com/BernardoChavez"><img src="https://img.shields.io/badge/GitHub-BernardoChavez-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 
   <br/><br/>
