@@ -1,115 +1,185 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · bernardochavez</sub></p>
-<h1>Bernardo Chavez Padilla</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Ing. Informatico</p>
-<p><strong>● Building and sharing work in public</strong></p>
+  <!-- GitSkins Neon Hero Banner -->
+  <img src="https://www.gitskins.com/api/readme-reference/hero?username=bernardochavez&theme=neon&role=Full-Stack%20Developer&location=Santa%20Cruz%2C%20Bolivia&v=readme-reference-2" width="100%" alt="Bernardo Chavez Padilla profile banner" />
 
-<p><a href="https://github.com/bernardochavez">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/209277833?u=0195ba9d9bfc924b38334c4bac2211854d487507&amp;v=4" width="180" alt="Bernardo Chavez Padilla GitHub avatar" />
-</td>
-</tr>
-</table>
+  <br/>
+
+  <!-- Dynamic Typing Title -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack%20Developer;Ingeniero%20Inform%C3%A1tico;Building%20with%20Python%20%C2%B7%20Vue%20%C2%B7%20TypeScript%20%C2%B7%20PHP;Optimization%20%C2%B7%20Game%20Dev%20%C2%B7%20Shaders%20%F0%9F%9A%80" alt="Typing text" />
+  </a>
+
+  <br/>
+
+  <!-- Social & Stats Badges -->
+  <a href="mailto:bernardochavez515@gmail.com"><img src="https://img.shields.io/badge/Email-bernardochavez515%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://github.com/BernardoChavez"><img src="https://img.shields.io/badge/GitHub-BernardoChavez-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=BernardoChavez&label=Profile%20Views&color=7B5CFF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BernardoChavez?style=for-the-badge&label=Followers&color=00FFA3&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-7DF9FF?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<table width="100%">
+## ⚡ whoami
+
+```typescript
+const bernardo: FullStackDeveloper = {
+  name:        "Bernardo Chavez Padilla",
+  title:       "Full-Stack Developer & Software Engineer",
+  degree:      "Ingeniería Informática 🎓",
+  location:    "Santa Cruz, Bolivia 🇧🇴",
+  currently:   "Desarrollando soluciones Full Stack, optimización matemática y gráficos 3D",
+  coreStack:   ["Python", "FastAPI", "Vue.js", "TypeScript", "PHP", "MongoDB", "MySQL"],
+  interests:   ["Investigación Operativa (Simplex)", "ShaderLab / Game Dev", "3D Printing & CAD"],
+  philosophy:  "Construir software sólido, resolver problemas complejos y optimizar cada capa 🚀",
+};
+```
+
+> **Ingeniero Informático** enfocado en el desarrollo integral de software: desde el modelado algorítmico y bases de datos transaccionales hasta interfaces reactivas y computación gráfica.
+> 
+> **🤝 Abierto a colaboraciones, proyectos innovadores y desarrollo de productos útiles.**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,vue,ts,js,fastapi,php,tailwind,mongodb,mysql,unity,cs,linux,bash,git&perline=7&theme=dark" alt="Tech stack icons" />
+
+  <br/><br/>
+
+  **💻 Frontend & UI**
+  <br/>
+  <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+
+  <br/><br/>
+
+  **⚙️ Backend, Bases de Datos & Gráficos**
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="PHP" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Unity_3D-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&labelColor=0d1117" alt="Unity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Python · PHP</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>24 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>339 contributions · 41 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>Ing. Informatico</sub></p>
+### 🕹️ Doom3D-Game
+Videojuego 3D enfocado en computación gráfica, iluminación y **shaders personalizados en tiempo real**.
 
-<h2>Proof at a glance</h2>
+`Unity` · `ShaderLab` · `C#`
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>24</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>339</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+<br/>
+<a href="https://github.com/BernardoChavez/Doom3D-Game"><img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&repos=bernardochavez%2FDoom3D-Game%2Cbernardochavez%2Fcup2026-backend%2Cbernardochavez%2Fcup2026-frontend%2Cbernardochavez%2Fsos_automotriz_backend&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&repos=bernardochavez%2FDoom3D-Game%2Cbernardochavez%2Fcup2026-backend%2Cbernardochavez%2Fcup2026-frontend%2Cbernardochavez%2Fsos_automotriz_backend&v=recruiter-projects-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/BernardoChavez/Doom3D-Game">Doom3D-Game</a></h3>
-<p>Juego desarrollado para la materia de Programacion Grafica.</p>
-<p><sub>ShaderLab · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/BernardoChavez/Doom3D-Game">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+### 🧮 Metodo-Simplex
+Solucionador algorítmico de **Investigación Operativa (Dos Fases y Gran M)** para optimización lineal y balanceo de dietas caninas.
+
+`Python` · `Vue.js` · `TypeScript`
+
+<br/>
+<a href="https://github.com/BernardoChavez/Metodo-Simplex-Backend"><img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 CUP 2026 (Full Stack)
+Plataforma integral de backend y frontend para la administración y gestión del proyecto Cup 2026.
+
+`PHP` · `Vue.js` · `REST API`
+
+<br/>
+<a href="https://github.com/BernardoChavez/cup2026-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/BernardoChavez/cup2026-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 SOS Automotriz
+Arquitectura full stack para plataforma de rescate y asistencia vehicular en ruta con geolocalización.
+
+`Python` · `JavaScript` · `APIs`
+
+<br/>
+<a href="https://github.com/BernardoChavez/sos_automotriz_backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/BernardoChavez/sos_automotriz_frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/cup2026-backend">cup2026-backend</a></h3><p>Backend para el proyecto Cup 2026</p><p><sub>PHP · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/cup2026-frontend">cup2026-frontend</a></h3><p>Frontend para el proyecto Cup 2026</p><p><sub>Vue · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/sos_automotriz_backend">sos_automotriz_backend</a></h3><p>Backend para el proyecto Sos Automotriz</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<details>
+<summary><b>📂 Ver más proyectos destacados</b> <i>(Haz clic para expandir)</i></summary>
 
-<h2>Technical toolkit</h2>
+<br/>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla technology stack" />
-</picture>
-</p>
+- **[TemperaturasWEB](https://github.com/BernardoChavez/TemperaturasWEB)** — Sistema de monitoreo y telemetría de temperatura para cámaras de frío industrial.
+- **[Ojo-Cambia](https://github.com/BernardoChavez/ojo-cambia-backend)** — Backend y frontend para procesamiento y visión digital.
+- **Vulkan Prototipo 3D** — Diseño y manufactura aditiva con modelado paramétrico y ensamblaje físico (Ender 3 V2).
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>36% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>17% of public code</sub></td>
-<td width="20%" align="center"><strong>PHP</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
-</tr>
-</table>
+</details>
 
-<h2>Consistency signal</h2>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla contribution activity" />
-</picture>
-</p>
+## 📊 GitHub Analytics & Engineering Pulse
 
-<hr />
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/bernardochavez">GitHub</a></td>
-</tr>
-</table>
+<img src="https://www.gitskins.com/api/section/stats?username=bernardochavez&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
 
-<p align="center"><sub>Bernardo Chavez Padilla · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<br/><br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=bernardochavez&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* ⚡ **Contribuciones activas:** Más de **690+ contribuciones** en el último año.
+* 📦 **Ecosistema de proyectos:** Más de **24 repositorios públicos** desarrollados.
+* 🎯 **Enfoque técnico:** Arquitecturas Full Stack de alto rendimiento, optimización algorítmica y shaders 3D.
+* 💬 **Colaboraciones:** Abierto a proyectos desafiantes y desarrollo de productos digitales escalables.
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=bernardochavez&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Great
+
+Construyo software útil y escalable combinando rendimiento, buena arquitectura y diseño funcional.
+
+<a href="mailto:bernardochavez595@gmail.com"><img src="https://img.shields.io/badge/Contactar_por_Email-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ Creado por [Bernardo Chavez Padilla](https://github.com/BernardoChavez) · Software Engineer & Full-Stack Developer***
+
+</div>
