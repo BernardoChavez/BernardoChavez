@@ -1,120 +1,115 @@
 <div align="center">
 
-  <!-- HERO BANNER CYBERPUNK NEON GRADIENT -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,11,17,24&height=260&section=header&text=BERNARDO%20CHAVEZ&fontSize=56&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · bernardochavez</sub></p>
+<h1>Bernardo Chavez Padilla</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Ing. Informatico</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-  <!-- DYNAMIC TYPING TERMINAL -->
-  <a href="https://github.com/BernardoChavez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Crafting+scalable+full-stack+systems;%F0%9F%8E%AE+Writing+custom+shaders+%26+game+mechanics;%F0%9F%A7%AE+Solving+complex+optimization+algorithms;%F0%9F%9A%80+Exploring+AI+%26+low-level+performance;" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- QUICK STATUS PILLS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5_Status-Building_Cool_Stuff-ff0055?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/%F0%9F%8C%8D_Location-Santa_Cruz%2C_BO-7928ca?style=for-the-badge&labelColor=0d1117" />
-    <a href="mailto:bernardochavez595@gmail.com">
-      <img src="https://img.shields.io/badge/%F0%9F%93%A8_Contact-Get_in_touch-00F5D4?style=for-the-badge&labelColor=0d1117&logoColor=black" />
-    </a>
-  </p>
-
+<p><a href="https://github.com/bernardochavez">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/209277833?u=0195ba9d9bfc924b38334c4bac2211854d487507&amp;v=4" width="180" alt="Bernardo Chavez Padilla GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### ⚡ Interactive Terminal Session
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Python · PHP</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>24 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>339 contributions · 41 active days</p></td>
+</tr>
+</table>
 
-```yaml
-user@bernardo-pc:~$ neofetch --profile
--------------------------------------
-OS        : Arch / CachyOS Linux x86_64
-Role      : Ingeniero Informático & Full Stack Builder
-Focus     : Architecture, Optimization & Creative Tech
-```
+<p><sub>Ing. Informatico</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-### 🚀 Tech Matrix & Weaponry
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>24</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>339</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla GitHub proof metrics" />
+</picture>
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>🎨 Frontend & UI</b></td>
-      <td align="center" width="25%"><b>⚙️ Backend & APIs</b></td>
-      <td align="center" width="25%"><b>🎮 Graphics & GameDev</b></td>
-      <td align="center" width="25%"><b>🛠️ Infra & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,html,css&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,php,nodejs,mongodb,mysql&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=unity,cs,blender&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&perline=3" />
-      </td>
-    </tr>
-  </table>
+<h2>Selected work</h2>
 
-</div>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&repos=bernardochavez%2FDoom3D-Game%2Cbernardochavez%2Fcup2026-backend%2Cbernardochavez%2Fcup2026-frontend%2Cbernardochavez%2Fsos_automotriz_backend&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&repos=bernardochavez%2FDoom3D-Game%2Cbernardochavez%2Fcup2026-backend%2Cbernardochavez%2Fcup2026-frontend%2Cbernardochavez%2Fsos_automotriz_backend&v=recruiter-projects-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/BernardoChavez/Doom3D-Game">Doom3D-Game</a></h3>
+<p>Juego desarrollado para la materia de Programacion Grafica.</p>
+<p><sub>ShaderLab · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/BernardoChavez/Doom3D-Game">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/cup2026-backend">cup2026-backend</a></h3><p>Backend para el proyecto Cup 2026</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/cup2026-frontend">cup2026-frontend</a></h3><p>Frontend para el proyecto Cup 2026</p><p><sub>Vue · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/BernardoChavez/sos_automotriz_backend">sos_automotriz_backend</a></h3><p>Backend para el proyecto Sos Automotriz</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 🏆 GitHub Hall of Fame & Badges
+<h2>Technical toolkit</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BernardoChavez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla technology stack" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>36% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
 
-### 📈 Activity Wave & Engineering Pulse
+<h2>Consistency signal</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoChavez&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bernardochavez&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209277833%3Fu%3D0195ba9d9bfc924b38334c4bac2211854d487507%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Bernardo Chavez Padilla contribution activity" />
+</picture>
+</p>
 
-<br/>
+<hr />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoChavez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoChavez&layout=donut&theme=tokyonight&border_radius=12" />
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/bernardochavez">GitHub</a></td>
+</tr>
+</table>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoChavez&theme=tokyonight&border_radius=12&card_width=600" />
-</div>
-
----
-
-### 💡 Featured Architectural Works
-
-<div align="center">
-
-| Project | Highlights | Tech Arsenal |
-| :--- | :--- | :---: |
-| **🕹️ [Doom3D Game Engine](https://github.com/BernardoChavez/Doom3D-Game)** | Recreación 3D clásica con iluminación personalizada, pipelines gráficos y shaders en tiempo real. | `Unity` `ShaderLab` `C#` |
-| **🧮 [Simplex Optimizer Engine](https://github.com/BernardoChavez/Metodo-Simplex-Backend)** | Algoritmo Dos Fases y Gran M para balanceo de dietas y optimización operativa multivariable. | `Python` `Vue 3` `TypeScript` |
-| **🚗 [SOS Automotriz Platform](https://github.com/BernardoChavez/sos_automotriz_backend)** | Arquitectura integral para asistencia vehicular, despacho geolocalizado y gestión de servicios. | `Python` `FastAPI` `Vue.js` |
-| **❄️ [Temperaturas Monitoreo](https://github.com/BernardoChavez/TemperaturasWEB)** | Telemetría e interfaz de control de temperatura para cámaras de frío industrial. | `JavaScript` `APIs` `IoT` |
-
-</div>
-
----
-
-<!-- CYBER FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,17,24&height=100&section=footer" width="100%" />
-  
-  <p align="center">
-    <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
-  </p>
-</div>
+<p align="center"><sub>Bernardo Chavez Padilla · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
