@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/%F0%9F%94%A5_Status-Building_Cool_Stuff-ff0055?style=for-the-badge&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/%F0%9F%8C%8D_Location-Santa_Cruz%2C_BO-7928ca?style=for-the-badge&labelColor=0d1117" />
-    <a href="mailto:bernardochavez515@gmail.com">
+    <a href="mailto:bernardochavez595@gmail.com">
       <img src="https://img.shields.io/badge/%F0%9F%93%A8_Contact-Get_in_touch-00F5D4?style=for-the-badge&labelColor=0d1117&logoColor=black" />
     </a>
   </p>
